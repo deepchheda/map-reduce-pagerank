@@ -16,10 +16,10 @@ in the output folder by the last job.
 This is a maven project with a Makefile so it will run in any environment by
 running the following commands on the terminal:
 
-To run locally:
-make switch-standalone
-make alone
+To run locally:  <br />
+make switch-standalone <br />
+make alone <br />
 
-To run on AWS:
-make upload-input-aws  
-make cloud  
+To run on AWS:  <br />
+make upload-input-aws  <br />
+make cloud  <br />
