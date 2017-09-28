@@ -21,5 +21,5 @@ make switch-standalone
 make alone
 
 To run on AWS:
-make upload-input-aws
-make cloud
+make upload-input-aws  
+make cloud  
